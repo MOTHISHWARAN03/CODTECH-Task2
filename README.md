@@ -12,6 +12,8 @@ Mentor: N.Santhosh
 
 Overview of the Code
 
+Project: Model Evaluation and Comparision
+
 This Python script is designed to evaluate and compare machine learning models by preprocessing a dataset, training models, and calculating their performance metrics. Below is a detailed explanation of the key 
 
 steps:
